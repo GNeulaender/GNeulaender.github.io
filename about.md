@@ -12,4 +12,4 @@ I use to hop around Linux distros a lot, but for now I'm checking out Manjaro. I
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[guidoneulaender@gmail.com](mailto:guidoneulaender@gmail.com)
