@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Some information about you!
+I'm a math student in the University of Campinas (UNICAMP). 
 
-### More Information
+### Linux specs
 
-A place to include any other types of information that you'd like to include about yourself.
+I use to hop around Linux distros a lot, but for now I'm checking out Manjaro. It's was been a good experince so far! My current graphical environment is bspwm with Polybar, you can check out my config files on my Github page.
 
 ### Contact me
 
